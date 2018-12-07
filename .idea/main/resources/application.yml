@@ -1,0 +1,6 @@
+
+
+  # mongodb数据库
+  data:
+    mongodb:
+      uri: mongodb://testrw:testrw@localhost:27017/test
