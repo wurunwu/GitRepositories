@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vote
+    username: root
+    password: 199805
+
+  redis:
+    jedis:
+      pool:
+        max-active: 20
+        max-idle: 8
+        min-idle: 2
+        max-wait: -1
+    host: 47.107.254.104
+    password: Wurunwu199805
+    port: 6380
+    database: 0
+
+  data:
+    mongodb:
+      uri: mongodb://47.107.254.104:27017/test
+=======
+
+
+  # mongodb数据库
+  data:
+    mongodb:
+      uri: mongodb://testrw:testrw@localhost:27017/test
+>>>>>>> 1f684174e33bf26d2020e8530f6e195c167bd600
