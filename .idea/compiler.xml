@@ -6,7 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="RedisAgain" />
+=======
+<<<<<<< HEAD
+        <module name="RedisOk" />
+=======
+        <module name="Mongo" />
+>>>>>>> f6dd4bd9ab8c6cc1a74f0d92d478c94c0348b994
+>>>>>>> 1f684174e33bf26d2020e8530f6e195c167bd600
       </profile>
     </annotationProcessing>
   </component>

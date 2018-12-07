@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
@@ -20,3 +21,11 @@ spring:
   data:
     mongodb:
       uri: mongodb://47.107.254.104:27017/test
+=======
+
+
+  # mongodb数据库
+  data:
+    mongodb:
+      uri: mongodb://testrw:testrw@localhost:27017/test
+>>>>>>> 1f684174e33bf26d2020e8530f6e195c167bd600
